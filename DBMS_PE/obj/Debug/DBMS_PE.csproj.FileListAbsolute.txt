@@ -1,0 +1,12 @@
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\bin\Debug\DBMS_PE.exe.config
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\bin\Debug\DBMS_PE.exe
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\bin\Debug\DBMS_PE.pdb
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\bin\Debug\Oracle.DataAccess.dll
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.csprojResolveAssemblyReference.cache
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.Form1.resources
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.Properties.Resources.resources
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.csproj.GenerateResource.Cache
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.exe
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.pdb
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.Form2.resources
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.Form3.resources

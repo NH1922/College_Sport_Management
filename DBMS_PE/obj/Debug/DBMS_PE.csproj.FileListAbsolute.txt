@@ -10,3 +10,4 @@ D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.exe
 D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.pdb
 D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.Form2.resources
 D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.Form3.resources
+D:\VS Projects\Hello World\DBMS_PE\DBMS_PE\obj\Debug\DBMS_PE.Form4.resources

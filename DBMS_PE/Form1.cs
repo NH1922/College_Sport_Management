@@ -19,6 +19,7 @@ namespace DBMS_PE
         string QUERY;
         Form3 f3 = new Form3();
         Form2 f2 = new Form2();
+        Form4 f4 = new Form4();
         public Form1()
         {
             InitializeComponent();
@@ -44,6 +45,8 @@ namespace DBMS_PE
 
             if (radioButton2.Checked == true)
                 f3.Show();
+            if (radioButton3.Checked == true)
+                f4.Show();
         }
     }
 }

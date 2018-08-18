@@ -1,1 +1,0 @@
-select c.sid, s.sid, c.pid from catalog c, catalog s where c.cost > s.cost and c.pid=s.pid;
